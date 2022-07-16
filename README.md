@@ -15,6 +15,7 @@ NodeJS Set up
 
 End point : http://localhost:8000/loan_calc
 Method: POST
+Content-type : application/json
 Sample Request Parameters:
 
 {
