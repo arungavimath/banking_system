@@ -1,0 +1,26 @@
+{
+  "name": "banking_system",
+  "version": "1.0.0",
+  "description": "banking loand lending system backend project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arungavimath/banking_system.git"
+  },
+  "author": "Arun Gavimath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arungavimath/banking_system/issues"
+  },
+  "homepage": "https://github.com/arungavimath/banking_system#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "moment": "^2.29.4",
+    "mysql": "^2.18.1"
+  }
+}
